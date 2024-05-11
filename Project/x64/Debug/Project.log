@@ -1,0 +1,36 @@
+﻿  Elements.h
+D:\OOP_Project\Project\Elements.h(61,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\OOP_Project\Project\Elements.h(118,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\OOP_Project\Project\Elements.h(118,59): warning C4244:         with
+D:\OOP_Project\Project\Elements.h(118,59): warning C4244:         [
+D:\OOP_Project\Project\Elements.h(118,59): warning C4244:             T=float
+D:\OOP_Project\Project\Elements.h(118,59): warning C4244:         ]
+D:\OOP_Project\Project\Elements.h(118,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\OOP_Project\Project\Elements.h(118,56): warning C4244:         with
+D:\OOP_Project\Project\Elements.h(118,56): warning C4244:         [
+D:\OOP_Project\Project\Elements.h(118,56): warning C4244:             T=float
+D:\OOP_Project\Project\Elements.h(118,56): warning C4244:         ]
+D:\OOP_Project\Project\Elements.h(249,13): warning C4930: 'Sun s(void)': prototyped function not called (was a variable definition intended?)
+  source.cpp
+D:\OOP_Project\Project\Elements.h(61,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source.cpp')
+  
+D:\OOP_Project\Project\Elements.h(118,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\OOP_Project\Project\Elements.h(118,59): warning C4244:         with
+D:\OOP_Project\Project\Elements.h(118,59): warning C4244:         [
+D:\OOP_Project\Project\Elements.h(118,59): warning C4244:             T=float
+D:\OOP_Project\Project\Elements.h(118,59): warning C4244:         ]
+  (compiling source file 'source.cpp')
+  
+D:\OOP_Project\Project\Elements.h(118,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\OOP_Project\Project\Elements.h(118,56): warning C4244:         with
+D:\OOP_Project\Project\Elements.h(118,56): warning C4244:         [
+D:\OOP_Project\Project\Elements.h(118,56): warning C4244:             T=float
+D:\OOP_Project\Project\Elements.h(118,56): warning C4244:         ]
+  (compiling source file 'source.cpp')
+  
+D:\OOP_Project\Project\Elements.h(249,13): warning C4930: 'Sun s(void)': prototyped function not called (was a variable definition intended?)
+  (compiling source file 'source.cpp')
+  
+  Generating Code...
+  Project.vcxproj -> D:\OOP_Project\x64\Debug\Project.exe

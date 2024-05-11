@@ -1,0 +1,13 @@
+﻿  Elements.h
+D:\OOP_Project\Project\Elements.h(58,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\OOP_Project\Project\Elements.h(272,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  source.cpp
+D:\OOP_Project\Project\Elements.h(58,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source.cpp')
+  
+D:\OOP_Project\Project\Elements.h(272,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source.cpp')
+  
+D:\OOP_Project\Project\source.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+source.obj : error LNK2005: "class Sun s" (?s@@3VSun@@A) already defined in Elements.obj
+D:\OOP_Project\x64\Release\Project.exe : fatal error LNK1169: one or more multiply defined symbols found
