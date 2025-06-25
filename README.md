@@ -36,7 +36,7 @@ A custom-built 2D tower defense game inspired by the classic **Plants vs Zombies
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/pvz-clone.git
+git clone https://github.com/devmasif/OOP_Project.git
 cd pvz-clone
 ```
 2.**Install SFML**
