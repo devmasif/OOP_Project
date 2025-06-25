@@ -39,6 +39,20 @@ A custom-built 2D tower defense game inspired by the classic **Plants vs Zombies
 git clone https://github.com/your-username/pvz-clone.git
 cd pvz-clone
 ```
+2.**Install SFML**
+Follow the official SFML setup guide: https://www.sfml-dev.org/tutorials/
+
+3.**Build the Project**
+
+```bash
+g++ -std=c++17 src/*.cpp -o pvz -lsfml-graphics -lsfml-window -lsfml-system
+```
+
+4.**Run the Game**
+
+```bash
+./pvz
+```
 
 🧠 What We Learned
 Designing a real-time 2D game from scratch using SFML
