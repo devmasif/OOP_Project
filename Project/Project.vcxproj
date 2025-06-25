@@ -139,8 +139,49 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CherryBomb.cpp" />
+    <ClCompile Include="DancingZombie.cpp" />
+    <ClCompile Include="Elements.cpp" />
     <ClCompile Include="Elements.h" />
+    <ClCompile Include="Field.cpp" />
+    <ClCompile Include="Fire.cpp" />
+    <ClCompile Include="FlyingZombie.cpp" />
+    <ClCompile Include="FootballZombie.cpp" />
+    <ClCompile Include="NormalZombie.cpp" />
+    <ClCompile Include="PeaShooter.cpp" />
+    <ClCompile Include="Plant.cpp" />
+    <ClCompile Include="PlantFactory.cpp" />
+    <ClCompile Include="Repeater.cpp" />
+    <ClCompile Include="ShootingPlant.cpp" />
+    <ClCompile Include="SnowPea.cpp" />
     <ClCompile Include="source.cpp" />
+    <ClCompile Include="Sun.cpp" />
+    <ClCompile Include="Sunflower.cpp" />
+    <ClCompile Include="Wallnut.cpp" />
+    <ClCompile Include="yard.cpp" />
+    <ClCompile Include="Zombie.cpp" />
+    <ClCompile Include="ZombieFactory.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CherryBomb.h" />
+    <ClInclude Include="DancingZombie.h" />
+    <ClInclude Include="Field.h" />
+    <ClInclude Include="Fire.h" />
+    <ClInclude Include="FlyingZombie.h" />
+    <ClInclude Include="FootballZombie.h" />
+    <ClInclude Include="NormalZombie.h" />
+    <ClInclude Include="PeaShooter.h" />
+    <ClInclude Include="Plant.h" />
+    <ClInclude Include="PlantFactory.h" />
+    <ClInclude Include="Repeater.h" />
+    <ClInclude Include="ShootingPlant.h" />
+    <ClInclude Include="SnowPea.h" />
+    <ClInclude Include="Sun.h" />
+    <ClInclude Include="Sunflower.h" />
+    <ClInclude Include="Wallnut.h" />
+    <ClInclude Include="yard.h" />
+    <ClInclude Include="Zombie.h" />
+    <ClInclude Include="ZombieFactory.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
